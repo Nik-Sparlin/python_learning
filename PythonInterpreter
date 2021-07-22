@@ -1,0 +1,8 @@
+To use Python Interpreter functions, we go into the terminal/command prompt. The interpreter is a program that we can write Python in.
+
+In terminal:
+python3
+    This will open up Python Interpreter
+    If this doesn't work, you need to add Python3 to your Windows path variable (Google it)
+
+Note: This is not a place to develop a program! It is good for testing.
